@@ -1,0 +1,1441 @@
+{
+  "version": 1,
+  "maintainer": "Fiordhraoi",
+  "contact": "ogladmin@hiddenflame.net",
+  "aiGenerated": true,
+  "dimensions": [
+    512,
+    512
+  ],
+  "format": "RGBA PNG",
+  "variantPolicy": "Normal base creatures; shared artwork across elemental sizes.",
+  "creatures": {
+    "dire rat": {
+      "name": "Dire Rat",
+      "artworkId": "dire rat",
+      "file": "dire-rat.png"
+    },
+    "dog": {
+      "name": "Dog",
+      "artworkId": "dog",
+      "file": "dog.png"
+    },
+    "eagle": {
+      "name": "Eagle",
+      "artworkId": "eagle",
+      "file": "eagle.png"
+    },
+    "fire beetle": {
+      "name": "Fire Beetle",
+      "artworkId": "fire beetle",
+      "file": "fire-beetle.png"
+    },
+    "poison frog": {
+      "name": "Poison Frog",
+      "artworkId": "poison frog",
+      "file": "poison-frog.png"
+    },
+    "viper": {
+      "name": "Viper",
+      "artworkId": "viper",
+      "file": "viper.png"
+    },
+    "small air elemental": {
+      "name": "Small Air Elemental",
+      "artworkId": "air elemental",
+      "file": "air-elemental.png"
+    },
+    "small earth elemental": {
+      "name": "Small Earth Elemental",
+      "artworkId": "earth elemental",
+      "file": "earth-elemental.png"
+    },
+    "small fire elemental": {
+      "name": "Small Fire Elemental",
+      "artworkId": "fire elemental",
+      "file": "fire-elemental.png"
+    },
+    "small water elemental": {
+      "name": "Small Water Elemental",
+      "artworkId": "water elemental",
+      "file": "water-elemental.png"
+    },
+    "giant centipede": {
+      "name": "Giant Centipede",
+      "artworkId": "giant centipede",
+      "file": "giant-centipede.png"
+    },
+    "giant frog": {
+      "name": "Giant Frog",
+      "artworkId": "giant frog",
+      "file": "giant-frog.png"
+    },
+    "giant spider": {
+      "name": "Giant Spider",
+      "artworkId": "giant spider",
+      "file": "giant-spider.png"
+    },
+    "goblin dog": {
+      "name": "Goblin Dog",
+      "artworkId": "goblin dog",
+      "file": "goblin-dog.png"
+    },
+    "hyena": {
+      "name": "Hyena",
+      "artworkId": "hyena",
+      "file": "hyena.png"
+    },
+    "lemure": {
+      "name": "Lemure",
+      "artworkId": "lemure",
+      "file": "lemure.png"
+    },
+    "octopus": {
+      "name": "Octopus",
+      "artworkId": "octopus",
+      "file": "octopus.png"
+    },
+    "squid": {
+      "name": "Squid",
+      "artworkId": "squid",
+      "file": "squid.png"
+    },
+    "wolf": {
+      "name": "Wolf",
+      "artworkId": "wolf",
+      "file": "wolf.png"
+    },
+    "aurochs": {
+      "name": "Aurochs",
+      "artworkId": "aurochs",
+      "file": "aurochs.png"
+    },
+    "boar": {
+      "name": "Boar",
+      "artworkId": "boar",
+      "file": "boar.png"
+    },
+    "cheetah": {
+      "name": "Cheetah",
+      "artworkId": "cheetah",
+      "file": "cheetah.png"
+    },
+    "constrictor snake": {
+      "name": "Constrictor Snake",
+      "artworkId": "constrictor snake",
+      "file": "constrictor-snake.png"
+    },
+    "crocodile": {
+      "name": "Crocodile",
+      "artworkId": "crocodile",
+      "file": "crocodile.png"
+    },
+    "dire bat": {
+      "name": "Dire Bat",
+      "artworkId": "dire bat",
+      "file": "dire-bat.png"
+    },
+    "dretch": {
+      "name": "Dretch",
+      "artworkId": "dretch",
+      "file": "dretch.png"
+    },
+    "electric eel": {
+      "name": "Electric Eel",
+      "artworkId": "electric eel",
+      "file": "electric-eel.png"
+    },
+    "lantern archon": {
+      "name": "Lantern Archon",
+      "artworkId": "lantern archon",
+      "file": "lantern-archon.png"
+    },
+    "leopard": {
+      "name": "Leopard",
+      "artworkId": "leopard",
+      "file": "leopard.png"
+    },
+    "monitor lizard": {
+      "name": "Monitor Lizard",
+      "artworkId": "monitor lizard",
+      "file": "monitor-lizard.png"
+    },
+    "wolverine": {
+      "name": "Wolverine",
+      "artworkId": "wolverine",
+      "file": "wolverine.png"
+    },
+    "bison": {
+      "name": "Bison",
+      "artworkId": "bison",
+      "file": "bison.png"
+    },
+    "deinonychus": {
+      "name": "Deinonychus",
+      "artworkId": "deinonychus",
+      "file": "deinonychus.png"
+    },
+    "dire boar (daeodon)": {
+      "name": "Dire Boar (Daeodon)",
+      "artworkId": "dire boar (daeodon)",
+      "file": "dire-boar-daeodon.png"
+    },
+    "dire wolf": {
+      "name": "Dire Wolf",
+      "artworkId": "dire wolf",
+      "file": "dire-wolf.png"
+    },
+    "medium air elemental": {
+      "name": "Medium Air Elemental",
+      "artworkId": "air elemental",
+      "file": "air-elemental.png"
+    },
+    "medium earth elemental": {
+      "name": "Medium Earth Elemental",
+      "artworkId": "earth elemental",
+      "file": "earth-elemental.png"
+    },
+    "medium fire elemental": {
+      "name": "Medium Fire Elemental",
+      "artworkId": "fire elemental",
+      "file": "fire-elemental.png"
+    },
+    "medium water elemental": {
+      "name": "Medium Water Elemental",
+      "artworkId": "water elemental",
+      "file": "water-elemental.png"
+    },
+    "giant scorpion": {
+      "name": "Giant Scorpion",
+      "artworkId": "giant scorpion",
+      "file": "giant-scorpion.png"
+    },
+    "giant wasp": {
+      "name": "Giant Wasp",
+      "artworkId": "giant wasp",
+      "file": "giant-wasp.png"
+    },
+    "grizzly bear": {
+      "name": "Grizzly Bear",
+      "artworkId": "grizzly bear",
+      "file": "grizzly-bear.png"
+    },
+    "hell hound": {
+      "name": "Hell Hound",
+      "artworkId": "hell hound",
+      "file": "hell-hound.png"
+    },
+    "hound archon": {
+      "name": "Hound Archon",
+      "artworkId": "hound archon",
+      "file": "hound-archon.png"
+    },
+    "mephit": {
+      "name": "Mephit",
+      "artworkId": "mephit",
+      "file": "mephit.png"
+    },
+    "pteranodon": {
+      "name": "Pteranodon",
+      "artworkId": "pteranodon",
+      "file": "pteranodon.png"
+    },
+    "rhinoceros": {
+      "name": "Rhinoceros",
+      "artworkId": "rhinoceros",
+      "file": "rhinoceros.png"
+    },
+    "ankylosaurus": {
+      "name": "Ankylosaurus",
+      "artworkId": "ankylosaurus",
+      "file": "ankylosaurus.png"
+    },
+    "babau": {
+      "name": "Babau",
+      "artworkId": "babau",
+      "file": "babau.png"
+    },
+    "bearded devil (barbazu)": {
+      "name": "Bearded Devil (Barbazu)",
+      "artworkId": "bearded devil (barbazu)",
+      "file": "bearded-devil-barbazu.png"
+    },
+    "bralani": {
+      "name": "Bralani",
+      "artworkId": "bralani",
+      "file": "bralani.png"
+    },
+    "large air elemental": {
+      "name": "Large Air Elemental",
+      "artworkId": "air elemental",
+      "file": "air-elemental.png"
+    },
+    "large earth elemental": {
+      "name": "Large Earth Elemental",
+      "artworkId": "earth elemental",
+      "file": "earth-elemental.png"
+    },
+    "large fire elemental": {
+      "name": "Large Fire Elemental",
+      "artworkId": "fire elemental",
+      "file": "fire-elemental.png"
+    },
+    "large water elemental": {
+      "name": "Large Water Elemental",
+      "artworkId": "water elemental",
+      "file": "water-elemental.png"
+    },
+    "giant moray eel": {
+      "name": "Giant Moray Eel",
+      "artworkId": "giant moray eel",
+      "file": "giant-moray-eel.png"
+    },
+    "kyton": {
+      "name": "Kyton",
+      "artworkId": "kyton",
+      "file": "kyton.png"
+    },
+    "salamander": {
+      "name": "Salamander",
+      "artworkId": "salamander",
+      "file": "salamander.png"
+    },
+    "woolly rhinoceros": {
+      "name": "Woolly Rhinoceros",
+      "artworkId": "woolly rhinoceros",
+      "file": "woolly-rhinoceros.png"
+    },
+    "xill": {
+      "name": "Xill",
+      "artworkId": "xill",
+      "file": "xill.png"
+    },
+    "dire bear (cave bear)": {
+      "name": "Dire Bear (Cave Bear)",
+      "artworkId": "dire bear (cave bear)",
+      "file": "dire-bear-cave-bear.png"
+    },
+    "elasmosaurus": {
+      "name": "Elasmosaurus",
+      "artworkId": "elasmosaurus",
+      "file": "elasmosaurus.png"
+    },
+    "huge air elemental": {
+      "name": "Huge Air Elemental",
+      "artworkId": "air elemental",
+      "file": "air-elemental.png"
+    },
+    "huge earth elemental": {
+      "name": "Huge Earth Elemental",
+      "artworkId": "earth elemental",
+      "file": "earth-elemental.png"
+    },
+    "huge fire elemental": {
+      "name": "Huge Fire Elemental",
+      "artworkId": "fire elemental",
+      "file": "fire-elemental.png"
+    },
+    "huge water elemental": {
+      "name": "Huge Water Elemental",
+      "artworkId": "water elemental",
+      "file": "water-elemental.png"
+    },
+    "erinyes": {
+      "name": "Erinyes",
+      "artworkId": "erinyes",
+      "file": "erinyes.png"
+    },
+    "giant octopus": {
+      "name": "Giant Octopus",
+      "artworkId": "giant octopus",
+      "file": "giant-octopus.png"
+    },
+    "invisible stalker": {
+      "name": "Invisible Stalker",
+      "artworkId": "invisible stalker",
+      "file": "invisible-stalker.png"
+    },
+    "lillend": {
+      "name": "Lillend",
+      "artworkId": "lillend",
+      "file": "lillend.png"
+    },
+    "shadow demon": {
+      "name": "Shadow Demon",
+      "artworkId": "shadow demon",
+      "file": "shadow-demon.png"
+    },
+    "succubus": {
+      "name": "Succubus",
+      "artworkId": "succubus",
+      "file": "succubus.png"
+    },
+    "triceratops": {
+      "name": "Triceratops",
+      "artworkId": "triceratops",
+      "file": "triceratops.png"
+    },
+    "bebilith": {
+      "name": "Bebilith",
+      "artworkId": "bebilith",
+      "file": "bebilith.png"
+    },
+    "bone devil (osyluth)": {
+      "name": "Bone Devil (Osyluth)",
+      "artworkId": "bone devil (osyluth)",
+      "file": "bone-devil-osyluth.png"
+    },
+    "brachiosaurus": {
+      "name": "Brachiosaurus",
+      "artworkId": "brachiosaurus",
+      "file": "brachiosaurus.png"
+    },
+    "dire crocodile": {
+      "name": "Dire Crocodile",
+      "artworkId": "dire crocodile",
+      "file": "dire-crocodile.png"
+    },
+    "greater air elemental": {
+      "name": "Greater Air Elemental",
+      "artworkId": "air elemental",
+      "file": "air-elemental.png"
+    },
+    "greater earth elemental": {
+      "name": "Greater Earth Elemental",
+      "artworkId": "earth elemental",
+      "file": "earth-elemental.png"
+    },
+    "greater fire elemental": {
+      "name": "Greater Fire Elemental",
+      "artworkId": "fire elemental",
+      "file": "fire-elemental.png"
+    },
+    "greater water elemental": {
+      "name": "Greater Water Elemental",
+      "artworkId": "water elemental",
+      "file": "water-elemental.png"
+    },
+    "giant squid": {
+      "name": "Giant Squid",
+      "artworkId": "giant squid",
+      "file": "giant-squid.png"
+    },
+    "roc": {
+      "name": "Roc",
+      "artworkId": "roc",
+      "file": "roc.png"
+    },
+    "tyrannosaurus": {
+      "name": "Tyrannosaurus",
+      "artworkId": "tyrannosaurus",
+      "file": "tyrannosaurus.png"
+    },
+    "vrock": {
+      "name": "Vrock",
+      "artworkId": "vrock",
+      "file": "vrock.png"
+    },
+    "barbed devil (hamatula)": {
+      "name": "Barbed Devil (Hamatula)",
+      "artworkId": "barbed devil (hamatula)",
+      "file": "barbed-devil-hamatula.png"
+    },
+    "elder air elemental": {
+      "name": "Elder Air Elemental",
+      "artworkId": "air elemental",
+      "file": "air-elemental.png"
+    },
+    "elder earth elemental": {
+      "name": "Elder Earth Elemental",
+      "artworkId": "earth elemental",
+      "file": "earth-elemental.png"
+    },
+    "elder fire elemental": {
+      "name": "Elder Fire Elemental",
+      "artworkId": "fire elemental",
+      "file": "fire-elemental.png"
+    },
+    "elder water elemental": {
+      "name": "Elder Water Elemental",
+      "artworkId": "water elemental",
+      "file": "water-elemental.png"
+    },
+    "hezrou": {
+      "name": "Hezrou",
+      "artworkId": "hezrou",
+      "file": "hezrou.png"
+    },
+    "astral deva": {
+      "name": "Astral Deva",
+      "artworkId": "astral deva",
+      "file": "astral-deva.png"
+    },
+    "ghaele": {
+      "name": "Ghaele",
+      "artworkId": "ghaele",
+      "file": "ghaele.png"
+    },
+    "glabrezu": {
+      "name": "Glabrezu",
+      "artworkId": "glabrezu",
+      "file": "glabrezu.png"
+    },
+    "ice devil (gelugon)": {
+      "name": "Ice Devil (Gelugon)",
+      "artworkId": "ice devil (gelugon)",
+      "file": "ice-devil-gelugon.png"
+    },
+    "nalfeshnee": {
+      "name": "Nalfeshnee",
+      "artworkId": "nalfeshnee",
+      "file": "nalfeshnee.png"
+    },
+    "trumpet archon": {
+      "name": "Trumpet Archon",
+      "artworkId": "trumpet archon",
+      "file": "trumpet-archon.png"
+    },
+    "mite": {
+      "name": "Mite",
+      "artworkId": "mite",
+      "file": "mite.png"
+    },
+    "stirge": {
+      "name": "Stirge",
+      "artworkId": "stirge",
+      "file": "stirge.png"
+    },
+    "giant crab": {
+      "name": "Giant Crab",
+      "artworkId": "giant crab",
+      "file": "giant-crab.png"
+    },
+    "giant stag beetle": {
+      "name": "Giant Stag Beetle",
+      "artworkId": "giant stag beetle",
+      "file": "giant-stag-beetle.png"
+    },
+    "griffon": {
+      "name": "Griffon",
+      "artworkId": "griffon",
+      "file": "griffon.png"
+    },
+    "owlbear": {
+      "name": "Owlbear",
+      "artworkId": "owlbear",
+      "file": "owlbear.png"
+    },
+    "satyr": {
+      "name": "Satyr",
+      "artworkId": "satyr",
+      "file": "satyr.png"
+    },
+    "cyclops": {
+      "name": "Cyclops",
+      "artworkId": "cyclops",
+      "file": "cyclops.png"
+    },
+    "ettin": {
+      "name": "Ettin",
+      "artworkId": "ettin",
+      "file": "ettin.png"
+    },
+    "girallon": {
+      "name": "Girallon",
+      "artworkId": "girallon",
+      "file": "girallon.png"
+    },
+    "manticore": {
+      "name": "Manticore",
+      "artworkId": "manticore",
+      "file": "manticore.png"
+    },
+    "bulette": {
+      "name": "Bulette",
+      "artworkId": "bulette",
+      "file": "bulette.png"
+    },
+    "hill giant": {
+      "name": "Hill Giant",
+      "artworkId": "hill giant",
+      "file": "hill-giant.png"
+    },
+    "stegosaurus": {
+      "name": "Stegosaurus",
+      "artworkId": "stegosaurus",
+      "file": "stegosaurus.png"
+    },
+    "stone giant": {
+      "name": "Stone Giant",
+      "artworkId": "stone giant",
+      "file": "stone-giant.png"
+    },
+    "fire giant": {
+      "name": "Fire Giant",
+      "artworkId": "fire giant",
+      "file": "fire-giant.png"
+    },
+    "frost giant": {
+      "name": "Frost Giant",
+      "artworkId": "frost giant",
+      "file": "frost-giant.png"
+    },
+    "cloud giant": {
+      "name": "Cloud Giant",
+      "artworkId": "cloud giant",
+      "file": "cloud-giant.png"
+    },
+    "purple worm": {
+      "name": "Purple Worm",
+      "artworkId": "purple worm",
+      "file": "purple-worm.png"
+    },
+    "pixie": {
+      "name": "Pixie",
+      "artworkId": "pixie",
+      "file": "pixie.png"
+    },
+    "storm giant": {
+      "name": "Storm Giant",
+      "artworkId": "storm giant",
+      "file": "storm-giant.png"
+    },
+    "giant ant worker": {
+      "name": "Giant Ant (Worker)",
+      "artworkId": "giant ant worker",
+      "file": "giant-ant-worker.png"
+    },
+    "giant ant soldier": {
+      "name": "Giant Ant (Soldier)",
+      "artworkId": "giant ant soldier",
+      "file": "giant-ant-soldier.png"
+    },
+    "giant ant drone": {
+      "name": "Giant Ant (Drone)",
+      "artworkId": "giant ant drone",
+      "file": "giant-ant-drone.png"
+    },
+    "small ice elemental": {
+      "name": "Small Ice Elemental",
+      "artworkId": "ice elemental",
+      "file": "ice-elemental.png"
+    },
+    "medium ice elemental": {
+      "name": "Medium Ice Elemental",
+      "artworkId": "ice elemental",
+      "file": "ice-elemental.png"
+    },
+    "large ice elemental": {
+      "name": "Large Ice Elemental",
+      "artworkId": "ice elemental",
+      "file": "ice-elemental.png"
+    },
+    "huge ice elemental": {
+      "name": "Huge Ice Elemental",
+      "artworkId": "ice elemental",
+      "file": "ice-elemental.png"
+    },
+    "greater ice elemental": {
+      "name": "Greater Ice Elemental",
+      "artworkId": "ice elemental",
+      "file": "ice-elemental.png"
+    },
+    "elder ice elemental": {
+      "name": "Elder Ice Elemental",
+      "artworkId": "ice elemental",
+      "file": "ice-elemental.png"
+    },
+    "small lightning elemental": {
+      "name": "Small Lightning Elemental",
+      "artworkId": "lightning elemental",
+      "file": "lightning-elemental.png"
+    },
+    "medium lightning elemental": {
+      "name": "Medium Lightning Elemental",
+      "artworkId": "lightning elemental",
+      "file": "lightning-elemental.png"
+    },
+    "large lightning elemental": {
+      "name": "Large Lightning Elemental",
+      "artworkId": "lightning elemental",
+      "file": "lightning-elemental.png"
+    },
+    "huge lightning elemental": {
+      "name": "Huge Lightning Elemental",
+      "artworkId": "lightning elemental",
+      "file": "lightning-elemental.png"
+    },
+    "greater lightning elemental": {
+      "name": "Greater Lightning Elemental",
+      "artworkId": "lightning elemental",
+      "file": "lightning-elemental.png"
+    },
+    "elder lightning elemental": {
+      "name": "Elder Lightning Elemental",
+      "artworkId": "lightning elemental",
+      "file": "lightning-elemental.png"
+    },
+    "small magma elemental": {
+      "name": "Small Magma Elemental",
+      "artworkId": "magma elemental",
+      "file": "magma-elemental.png"
+    },
+    "medium magma elemental": {
+      "name": "Medium Magma Elemental",
+      "artworkId": "magma elemental",
+      "file": "magma-elemental.png"
+    },
+    "large magma elemental": {
+      "name": "Large Magma Elemental",
+      "artworkId": "magma elemental",
+      "file": "magma-elemental.png"
+    },
+    "huge magma elemental": {
+      "name": "Huge Magma Elemental",
+      "artworkId": "magma elemental",
+      "file": "magma-elemental.png"
+    },
+    "greater magma elemental": {
+      "name": "Greater Magma Elemental",
+      "artworkId": "magma elemental",
+      "file": "magma-elemental.png"
+    },
+    "elder magma elemental": {
+      "name": "Elder Magma Elemental",
+      "artworkId": "magma elemental",
+      "file": "magma-elemental.png"
+    },
+    "small mud elemental": {
+      "name": "Small Mud Elemental",
+      "artworkId": "mud elemental",
+      "file": "mud-elemental.png"
+    },
+    "medium mud elemental": {
+      "name": "Medium Mud Elemental",
+      "artworkId": "mud elemental",
+      "file": "mud-elemental.png"
+    },
+    "large mud elemental": {
+      "name": "Large Mud Elemental",
+      "artworkId": "mud elemental",
+      "file": "mud-elemental.png"
+    },
+    "huge mud elemental": {
+      "name": "Huge Mud Elemental",
+      "artworkId": "mud elemental",
+      "file": "mud-elemental.png"
+    },
+    "greater mud elemental": {
+      "name": "Greater Mud Elemental",
+      "artworkId": "mud elemental",
+      "file": "mud-elemental.png"
+    },
+    "elder mud elemental": {
+      "name": "Elder Mud Elemental",
+      "artworkId": "mud elemental",
+      "file": "mud-elemental.png"
+    },
+    "small aether elemental": {
+      "name": "Small Aether Elemental",
+      "artworkId": "aether elemental",
+      "file": "aether-elemental.png"
+    },
+    "medium aether elemental": {
+      "name": "Medium Aether Elemental",
+      "artworkId": "aether elemental",
+      "file": "aether-elemental.png"
+    },
+    "large aether elemental": {
+      "name": "Large Aether Elemental",
+      "artworkId": "aether elemental",
+      "file": "aether-elemental.png"
+    },
+    "huge aether elemental": {
+      "name": "Huge Aether Elemental",
+      "artworkId": "aether elemental",
+      "file": "aether-elemental.png"
+    },
+    "greater aether elemental": {
+      "name": "Greater Aether Elemental",
+      "artworkId": "aether elemental",
+      "file": "aether-elemental.png"
+    },
+    "elder aether elemental": {
+      "name": "Elder Aether Elemental",
+      "artworkId": "aether elemental",
+      "file": "aether-elemental.png"
+    },
+    "dolphin": {
+      "name": "Dolphin",
+      "artworkId": "dolphin",
+      "file": "dolphin.png"
+    },
+    "orca": {
+      "name": "Orca",
+      "artworkId": "orca",
+      "file": "orca.png"
+    },
+    "pony": {
+      "name": "Pony",
+      "artworkId": "pony",
+      "file": "pony.png"
+    },
+    "horse": {
+      "name": "Horse",
+      "artworkId": "horse",
+      "file": "horse.png"
+    },
+    "gorilla": {
+      "name": "Gorilla",
+      "artworkId": "gorilla",
+      "file": "gorilla.png"
+    },
+    "dire ape (gigantopithecus)": {
+      "name": "Dire Ape (Gigantopithecus)",
+      "artworkId": "dire ape (gigantopithecus)",
+      "file": "dire-ape-gigantopithecus.png"
+    },
+    "shark": {
+      "name": "Shark",
+      "artworkId": "shark",
+      "file": "shark.png"
+    },
+    "dire shark (megalodon)": {
+      "name": "Dire Shark (Megalodon)",
+      "artworkId": "dire shark (megalodon)",
+      "file": "dire-shark-megalodon.png"
+    },
+    "lion": {
+      "name": "Lion",
+      "artworkId": "lion",
+      "file": "lion.png"
+    },
+    "dire lion (spotted lion)": {
+      "name": "Dire Lion (Spotted Lion)",
+      "artworkId": "dire lion (spotted lion)",
+      "file": "dire-lion-spotted-lion.png"
+    },
+    "elephant": {
+      "name": "Elephant",
+      "artworkId": "elephant",
+      "file": "elephant.png"
+    },
+    "mastodon": {
+      "name": "Mastodon",
+      "artworkId": "mastodon",
+      "file": "mastodon.png"
+    },
+    "tiger": {
+      "name": "Tiger",
+      "artworkId": "tiger",
+      "file": "tiger.png"
+    },
+    "dire tiger (smilodon)": {
+      "name": "Dire Tiger (Smilodon)",
+      "artworkId": "dire tiger (smilodon)",
+      "file": "dire-tiger-smilodon.png"
+    }
+  },
+  "artwork": {
+    "dire rat": {
+      "file": "dire-rat.png",
+      "appearanceSource": "https://legacy.aonprd.com/bestiary/rat.html#rat-dire",
+      "bytes": 482350
+    },
+    "dog": {
+      "file": "dog.png",
+      "appearanceSource": "https://legacy.aonprd.com/bestiary/dog.html#dog",
+      "bytes": 462670
+    },
+    "eagle": {
+      "file": "eagle.png",
+      "appearanceSource": "https://legacy.aonprd.com/bestiary/eagle.html#eagle",
+      "bytes": 486395
+    },
+    "fire beetle": {
+      "file": "fire-beetle.png",
+      "appearanceSource": "https://legacy.aonprd.com/bestiary/beetle.html#beetle-fire",
+      "bytes": 450892
+    },
+    "poison frog": {
+      "file": "poison-frog.png",
+      "appearanceSource": "https://legacy.aonprd.com/bestiary/frog.html#frog-poison",
+      "bytes": 446912
+    },
+    "viper": {
+      "file": "viper.png",
+      "appearanceSource": "https://legacy.aonprd.com/bestiary/familiar.html#viper",
+      "bytes": 476652
+    },
+    "air elemental": {
+      "file": "air-elemental.png",
+      "appearanceSource": "https://legacy.aonprd.com/bestiary/elemental.html",
+      "bytes": 477646
+    },
+    "earth elemental": {
+      "file": "earth-elemental.png",
+      "appearanceSource": "https://legacy.aonprd.com/bestiary/elemental.html",
+      "bytes": 528581
+    },
+    "fire elemental": {
+      "file": "fire-elemental.png",
+      "appearanceSource": "https://legacy.aonprd.com/bestiary/elemental.html",
+      "bytes": 461049
+    },
+    "water elemental": {
+      "file": "water-elemental.png",
+      "appearanceSource": "https://legacy.aonprd.com/bestiary/elemental.html",
+      "bytes": 531459
+    },
+    "giant centipede": {
+      "file": "giant-centipede.png",
+      "appearanceSource": "https://legacy.aonprd.com/bestiary/centipede.html#centipede-giant",
+      "bytes": 461190
+    },
+    "giant frog": {
+      "file": "giant-frog.png",
+      "appearanceSource": "https://legacy.aonprd.com/bestiary/frog.html#frog-giant",
+      "bytes": 470495
+    },
+    "giant spider": {
+      "file": "giant-spider.png",
+      "appearanceSource": "https://legacy.aonprd.com/bestiary/spider.html#spider-giant",
+      "bytes": 483863
+    },
+    "goblin dog": {
+      "file": "goblin-dog.png",
+      "appearanceSource": "https://legacy.aonprd.com/bestiary/goblinDog.html#goblin-dog",
+      "bytes": 494131
+    },
+    "hyena": {
+      "file": "hyena.png",
+      "appearanceSource": "https://legacy.aonprd.com/bestiary/hyena.html#hyena",
+      "bytes": 474756
+    },
+    "lemure": {
+      "file": "lemure.png",
+      "appearanceSource": "https://legacy.aonprd.com/bestiary/devil.html#devil-lemure",
+      "bytes": 471182
+    },
+    "octopus": {
+      "file": "octopus.png",
+      "appearanceSource": "https://legacy.aonprd.com/bestiary/octopus.html#octopus",
+      "bytes": 498769
+    },
+    "squid": {
+      "file": "squid.png",
+      "appearanceSource": "https://legacy.aonprd.com/bestiary/squid.html#squid",
+      "bytes": 485622
+    },
+    "wolf": {
+      "file": "wolf.png",
+      "appearanceSource": "https://legacy.aonprd.com/bestiary/wolf.html#wolf",
+      "bytes": 497771
+    },
+    "aurochs": {
+      "file": "aurochs.png",
+      "appearanceSource": "https://legacy.aonprd.com/bestiary/herdAnimal.html#herd-animal-aurochs",
+      "bytes": 459900
+    },
+    "boar": {
+      "file": "boar.png",
+      "appearanceSource": "https://legacy.aonprd.com/bestiary/boar.html#boar",
+      "bytes": 487564
+    },
+    "cheetah": {
+      "file": "cheetah.png",
+      "appearanceSource": "https://legacy.aonprd.com/bestiary/cat.html#cat-cheetah",
+      "bytes": 481009
+    },
+    "constrictor snake": {
+      "file": "constrictor-snake.png",
+      "appearanceSource": "https://legacy.aonprd.com/bestiary/snake.html#snake-constrictor",
+      "bytes": 511827
+    },
+    "crocodile": {
+      "file": "crocodile.png",
+      "appearanceSource": "https://legacy.aonprd.com/bestiary/crocodile.html#crocodile",
+      "bytes": 495395
+    },
+    "dire bat": {
+      "file": "dire-bat.png",
+      "appearanceSource": "https://legacy.aonprd.com/bestiary/bat.html#bat-dire",
+      "bytes": 468945
+    },
+    "dretch": {
+      "file": "dretch.png",
+      "appearanceSource": "https://legacy.aonprd.com/bestiary/demon.html#demon-dretch",
+      "bytes": 458481
+    },
+    "electric eel": {
+      "file": "electric-eel.png",
+      "appearanceSource": "https://legacy.aonprd.com/bestiary/eel.html#ell-electric",
+      "bytes": 459512
+    },
+    "lantern archon": {
+      "file": "lantern-archon.png",
+      "appearanceSource": "https://legacy.aonprd.com/bestiary/archon.html#archon-lantern",
+      "bytes": 386191
+    },
+    "leopard": {
+      "file": "leopard.png",
+      "appearanceSource": "https://legacy.aonprd.com/bestiary/cat.html#cat-leopard",
+      "bytes": 490901
+    },
+    "monitor lizard": {
+      "file": "monitor-lizard.png",
+      "appearanceSource": "https://legacy.aonprd.com/bestiary/lizard.html#lizard-giant",
+      "bytes": 485509
+    },
+    "wolverine": {
+      "file": "wolverine.png",
+      "appearanceSource": "https://legacy.aonprd.com/bestiary/wolverine.html#wolverine",
+      "bytes": 478625
+    },
+    "bison": {
+      "file": "bison.png",
+      "appearanceSource": "https://legacy.aonprd.com/bestiary/herdAnimal.html#herd-animal-bison",
+      "bytes": 466126
+    },
+    "deinonychus": {
+      "file": "deinonychus.png",
+      "appearanceSource": "https://legacy.aonprd.com/bestiary/dinosaur.html#dinosaur-deinonychus",
+      "bytes": 481148
+    },
+    "dire boar (daeodon)": {
+      "file": "dire-boar-daeodon.png",
+      "appearanceSource": "https://legacy.aonprd.com/bestiary/boar.html#boar-dire",
+      "bytes": 487434
+    },
+    "dire wolf": {
+      "file": "dire-wolf.png",
+      "appearanceSource": "https://legacy.aonprd.com/bestiary/wolf.html#wolf-dire",
+      "bytes": 482428
+    },
+    "giant scorpion": {
+      "file": "giant-scorpion.png",
+      "appearanceSource": "https://legacy.aonprd.com/bestiary/scorpion.html#scorpion-giant",
+      "bytes": 459087
+    },
+    "giant wasp": {
+      "file": "giant-wasp.png",
+      "appearanceSource": "https://legacy.aonprd.com/bestiary/wasp.html#wasp-giant",
+      "bytes": 451595
+    },
+    "grizzly bear": {
+      "file": "grizzly-bear.png",
+      "appearanceSource": "https://legacy.aonprd.com/bestiary/bear.html#bear-grizzly",
+      "bytes": 473147
+    },
+    "hell hound": {
+      "file": "hell-hound.png",
+      "appearanceSource": "https://legacy.aonprd.com/bestiary/hellHound.html#hell-hound",
+      "bytes": 444928
+    },
+    "hound archon": {
+      "file": "hound-archon.png",
+      "appearanceSource": "https://legacy.aonprd.com/bestiary/archon.html#archon-hound",
+      "bytes": 427270
+    },
+    "mephit": {
+      "file": "mephit.png",
+      "appearanceSource": "https://legacy.aonprd.com/bestiary/mephit.html",
+      "bytes": 462714
+    },
+    "pteranodon": {
+      "file": "pteranodon.png",
+      "appearanceSource": "https://legacy.aonprd.com/bestiary/dinosaur.html#dinosaur-pteranodon",
+      "bytes": 438213
+    },
+    "rhinoceros": {
+      "file": "rhinoceros.png",
+      "appearanceSource": "https://legacy.aonprd.com/bestiary/rhinoceros.html#rhinoceros",
+      "bytes": 484528
+    },
+    "ankylosaurus": {
+      "file": "ankylosaurus.png",
+      "appearanceSource": "https://legacy.aonprd.com/bestiary/dinosaur.html#dinosaur-ankylosaurus",
+      "bytes": 487325
+    },
+    "babau": {
+      "file": "babau.png",
+      "appearanceSource": "https://legacy.aonprd.com/bestiary/demon.html#demon-babau",
+      "bytes": 398237
+    },
+    "bearded devil (barbazu)": {
+      "file": "bearded-devil-barbazu.png",
+      "appearanceSource": "https://legacy.aonprd.com/bestiary/devil.html#devil-bearded",
+      "bytes": 459517
+    },
+    "bralani": {
+      "file": "bralani.png",
+      "appearanceSource": "https://legacy.aonprd.com/bestiary/azata.html#azata-bralani",
+      "bytes": 506211
+    },
+    "giant moray eel": {
+      "file": "giant-moray-eel.png",
+      "appearanceSource": "https://legacy.aonprd.com/bestiary/eel.html#eel-giant-moray",
+      "bytes": 484455
+    },
+    "kyton": {
+      "file": "kyton.png",
+      "appearanceSource": "https://legacy.aonprd.com/bestiary/kyton.html#kyton",
+      "bytes": 475436
+    },
+    "salamander": {
+      "file": "salamander.png",
+      "appearanceSource": "https://legacy.aonprd.com/bestiary/salamander.html#salamander",
+      "bytes": 470172
+    },
+    "woolly rhinoceros": {
+      "file": "woolly-rhinoceros.png",
+      "appearanceSource": "https://legacy.aonprd.com/bestiary/rhinoceros.html#rhinoceros-wooly.html",
+      "bytes": 491974
+    },
+    "xill": {
+      "file": "xill.png",
+      "appearanceSource": "https://legacy.aonprd.com/bestiary/xill.html#xill",
+      "bytes": 427363
+    },
+    "dire bear (cave bear)": {
+      "file": "dire-bear-cave-bear.png",
+      "appearanceSource": "https://legacy.aonprd.com/bestiary/bear.html#bear-dire",
+      "bytes": 501995
+    },
+    "elasmosaurus": {
+      "file": "elasmosaurus.png",
+      "appearanceSource": "https://legacy.aonprd.com/bestiary/dinosaur.html#dinosaur-elasmosaurus",
+      "bytes": 411300
+    },
+    "erinyes": {
+      "file": "erinyes.png",
+      "appearanceSource": "https://legacy.aonprd.com/bestiary/devil.html#devil-erinyes",
+      "bytes": 483263
+    },
+    "giant octopus": {
+      "file": "giant-octopus.png",
+      "appearanceSource": "https://legacy.aonprd.com/bestiary/octopus.html#octopus-giant",
+      "bytes": 518877
+    },
+    "invisible stalker": {
+      "file": "invisible-stalker.png",
+      "appearanceSource": "https://legacy.aonprd.com/bestiary/invisibleStalker.html#invisible-stalker",
+      "bytes": 428132
+    },
+    "lillend": {
+      "file": "lillend.png",
+      "appearanceSource": "https://legacy.aonprd.com/bestiary/azata.html#azata-lillend",
+      "bytes": 473090
+    },
+    "shadow demon": {
+      "file": "shadow-demon.png",
+      "appearanceSource": "https://legacy.aonprd.com/bestiary/demon.html#demon-shadow",
+      "bytes": 397484
+    },
+    "succubus": {
+      "file": "succubus.png",
+      "appearanceSource": "https://legacy.aonprd.com/bestiary/demon.html#demon-succubus",
+      "bytes": 438572
+    },
+    "triceratops": {
+      "file": "triceratops.png",
+      "appearanceSource": "https://legacy.aonprd.com/bestiary/dinosaur.html#triceratops",
+      "bytes": 475433
+    },
+    "bebilith": {
+      "file": "bebilith.png",
+      "appearanceSource": "https://legacy.aonprd.com/bestiary/bebilith.html#bebilith",
+      "bytes": 470698
+    },
+    "bone devil (osyluth)": {
+      "file": "bone-devil-osyluth.png",
+      "appearanceSource": "https://legacy.aonprd.com/bestiary/devil.html#devil-bone",
+      "bytes": 451420
+    },
+    "brachiosaurus": {
+      "file": "brachiosaurus.png",
+      "appearanceSource": "https://legacy.aonprd.com/bestiary/dinosaur.html#dinosaur-brachiosaurus",
+      "bytes": 411680
+    },
+    "dire crocodile": {
+      "file": "dire-crocodile.png",
+      "appearanceSource": "https://legacy.aonprd.com/bestiary/crocodile.html#crocodile-dire",
+      "bytes": 510007
+    },
+    "giant squid": {
+      "file": "giant-squid.png",
+      "appearanceSource": "https://legacy.aonprd.com/bestiary/squid.html#squid-giant",
+      "bytes": 515357
+    },
+    "roc": {
+      "file": "roc.png",
+      "appearanceSource": "https://legacy.aonprd.com/bestiary/roc.html#roc",
+      "bytes": 485205
+    },
+    "tyrannosaurus": {
+      "file": "tyrannosaurus.png",
+      "appearanceSource": "https://legacy.aonprd.com/bestiary/dinosaur.html#dinosaur-tyrannosaurus",
+      "bytes": 456848
+    },
+    "vrock": {
+      "file": "vrock.png",
+      "appearanceSource": "https://legacy.aonprd.com/bestiary/demon.html#demon-vrock",
+      "bytes": 506811
+    },
+    "barbed devil (hamatula)": {
+      "file": "barbed-devil-hamatula.png",
+      "appearanceSource": "https://legacy.aonprd.com/bestiary/devil.html#devil-barbed",
+      "bytes": 459357
+    },
+    "hezrou": {
+      "file": "hezrou.png",
+      "appearanceSource": "https://legacy.aonprd.com/bestiary/demon.html#demon-hezrou",
+      "bytes": 484426
+    },
+    "astral deva": {
+      "file": "astral-deva.png",
+      "appearanceSource": "https://legacy.aonprd.com/bestiary/angel.html#angel-astral-deva",
+      "bytes": 468738
+    },
+    "ghaele": {
+      "file": "ghaele.png",
+      "appearanceSource": "https://legacy.aonprd.com/bestiary/azata.html#azata-ghaele",
+      "bytes": 492759
+    },
+    "glabrezu": {
+      "file": "glabrezu.png",
+      "appearanceSource": "https://legacy.aonprd.com/bestiary/demon.html#demon-glabrezu",
+      "bytes": 475486
+    },
+    "ice devil (gelugon)": {
+      "file": "ice-devil-gelugon.png",
+      "appearanceSource": "https://legacy.aonprd.com/bestiary/devil.html#devil-ice",
+      "bytes": 417937
+    },
+    "nalfeshnee": {
+      "file": "nalfeshnee.png",
+      "appearanceSource": "https://legacy.aonprd.com/bestiary/demon.html#demon-nalfeshnee",
+      "bytes": 483733
+    },
+    "trumpet archon": {
+      "file": "trumpet-archon.png",
+      "appearanceSource": "https://legacy.aonprd.com/bestiary/archon.html#archon-trumpet",
+      "bytes": 507019
+    },
+    "mite": {
+      "file": "mite.png",
+      "appearanceSource": "https://legacy.aonprd.com/bestiary/mite.html#mite",
+      "bytes": 473825
+    },
+    "stirge": {
+      "file": "stirge.png",
+      "appearanceSource": "https://legacy.aonprd.com/bestiary/stirge.html#stirge",
+      "bytes": 436133
+    },
+    "giant crab": {
+      "file": "giant-crab.png",
+      "appearanceSource": "https://legacy.aonprd.com/bestiary/crab.html#crab-giant",
+      "bytes": 493383
+    },
+    "giant stag beetle": {
+      "file": "giant-stag-beetle.png",
+      "appearanceSource": "https://legacy.aonprd.com/bestiary/beetle.html#beetle-giant-stag",
+      "bytes": 444964
+    },
+    "griffon": {
+      "file": "griffon.png",
+      "appearanceSource": "https://legacy.aonprd.com/bestiary/griffon.html#griffon",
+      "bytes": 493887
+    },
+    "owlbear": {
+      "file": "owlbear.png",
+      "appearanceSource": "https://legacy.aonprd.com/bestiary/owlbear.html#owlbear",
+      "bytes": 495315
+    },
+    "satyr": {
+      "file": "satyr.png",
+      "appearanceSource": "https://legacy.aonprd.com/bestiary/satyr.html#satyr",
+      "bytes": 392804
+    },
+    "cyclops": {
+      "file": "cyclops.png",
+      "appearanceSource": "https://legacy.aonprd.com/bestiary/cyclops.html#cyclops",
+      "bytes": 479054
+    },
+    "ettin": {
+      "file": "ettin.png",
+      "appearanceSource": "https://legacy.aonprd.com/bestiary/ettin.html#ettin",
+      "bytes": 480856
+    },
+    "girallon": {
+      "file": "girallon.png",
+      "appearanceSource": "https://legacy.aonprd.com/bestiary/girallon.html#girallon",
+      "bytes": 465262
+    },
+    "manticore": {
+      "file": "manticore.png",
+      "appearanceSource": "https://legacy.aonprd.com/bestiary/manticore.html#manticore",
+      "bytes": 458598
+    },
+    "bulette": {
+      "file": "bulette.png",
+      "appearanceSource": "https://legacy.aonprd.com/bestiary/bulette.html#bulette",
+      "bytes": 470626
+    },
+    "hill giant": {
+      "file": "hill-giant.png",
+      "appearanceSource": "https://legacy.aonprd.com/bestiary/giant.html#giant-hill",
+      "bytes": 459637
+    },
+    "stegosaurus": {
+      "file": "stegosaurus.png",
+      "appearanceSource": "https://legacy.aonprd.com/bestiary/dinosaur.html#dinosaur-dtegosaurus",
+      "bytes": 481624
+    },
+    "stone giant": {
+      "file": "stone-giant.png",
+      "appearanceSource": "https://legacy.aonprd.com/bestiary/giant.html#giant-stone",
+      "bytes": 450447
+    },
+    "fire giant": {
+      "file": "fire-giant.png",
+      "appearanceSource": "https://legacy.aonprd.com/bestiary/giant.html#giant-fire",
+      "bytes": 444823
+    },
+    "frost giant": {
+      "file": "frost-giant.png",
+      "appearanceSource": "https://legacy.aonprd.com/bestiary/giant.html#giant-frost",
+      "bytes": 439708
+    },
+    "cloud giant": {
+      "file": "cloud-giant.png",
+      "appearanceSource": "https://legacy.aonprd.com/bestiary/giant.html#giant-cloud",
+      "bytes": 457349
+    },
+    "purple worm": {
+      "file": "purple-worm.png",
+      "appearanceSource": "https://legacy.aonprd.com/bestiary/purpleWorm.html#purple-worm",
+      "bytes": 519276
+    },
+    "pixie": {
+      "file": "pixie.png",
+      "appearanceSource": "https://legacy.aonprd.com/bestiary/pixie.html#pixie",
+      "bytes": 464226
+    },
+    "storm giant": {
+      "file": "storm-giant.png",
+      "appearanceSource": "https://legacy.aonprd.com/bestiary/giant.html#giant-storm",
+      "bytes": 415466
+    },
+    "giant ant worker": {
+      "file": "giant-ant-worker.png",
+      "appearanceSource": "https://legacy.aonprd.com/bestiary/ant.html#ant-giant",
+      "bytes": 426907
+    },
+    "giant ant soldier": {
+      "file": "giant-ant-soldier.png",
+      "appearanceSource": "https://legacy.aonprd.com/bestiary/ant.html#ant-giant",
+      "bytes": 451181
+    },
+    "giant ant drone": {
+      "file": "giant-ant-drone.png",
+      "appearanceSource": "https://legacy.aonprd.com/bestiary/ant.html#ant-giant",
+      "bytes": 445501
+    },
+    "ice elemental": {
+      "file": "ice-elemental.png",
+      "appearanceSource": "https://legacy.aonprd.com/bestiary2/elemental.html#ice-elemental",
+      "bytes": 442496
+    },
+    "lightning elemental": {
+      "file": "lightning-elemental.png",
+      "appearanceSource": "https://legacy.aonprd.com/bestiary2/elemental.html#lightning-elemental",
+      "bytes": 484599
+    },
+    "magma elemental": {
+      "file": "magma-elemental.png",
+      "appearanceSource": "https://legacy.aonprd.com/bestiary2/elemental.html#magma-elemental",
+      "bytes": 508519
+    },
+    "mud elemental": {
+      "file": "mud-elemental.png",
+      "appearanceSource": "https://legacy.aonprd.com/bestiary2/elemental.html#mud-elemental",
+      "bytes": 475049
+    },
+    "aether elemental": {
+      "file": "aether-elemental.png",
+      "appearanceSource": "https://legacy.aonprd.com/bestiary5/elementals.html#small-aether-elemental",
+      "bytes": 466207
+    },
+    "dolphin": {
+      "file": "dolphin.png",
+      "appearanceSource": "https://legacy.aonprd.com/bestiary/dolphin.html#dolphin",
+      "bytes": 413307
+    },
+    "orca": {
+      "file": "orca.png",
+      "appearanceSource": "https://legacy.aonprd.com/bestiary/dolphin.html#dolphin-orca",
+      "bytes": 406714
+    },
+    "pony": {
+      "file": "pony.png",
+      "appearanceSource": "https://legacy.aonprd.com/bestiary/horse.html#horse-pony",
+      "bytes": 440813
+    },
+    "horse": {
+      "file": "horse.png",
+      "appearanceSource": "https://legacy.aonprd.com/bestiary/horse.html#horse",
+      "bytes": 433999
+    },
+    "gorilla": {
+      "file": "gorilla.png",
+      "appearanceSource": "https://legacy.aonprd.com/bestiary/ape.html#ape-gorilla",
+      "bytes": 455243
+    },
+    "dire ape (gigantopithecus)": {
+      "file": "dire-ape-gigantopithecus.png",
+      "appearanceSource": "https://legacy.aonprd.com/bestiary/ape.html#ape-dire",
+      "bytes": 458378
+    },
+    "shark": {
+      "file": "shark.png",
+      "appearanceSource": "https://legacy.aonprd.com/bestiary/shark.html#shark",
+      "bytes": 413666
+    },
+    "dire shark (megalodon)": {
+      "file": "dire-shark-megalodon.png",
+      "appearanceSource": "https://legacy.aonprd.com/bestiary/shark.html#shark-dire",
+      "bytes": 461391
+    },
+    "lion": {
+      "file": "lion.png",
+      "appearanceSource": "https://legacy.aonprd.com/bestiary/lion.html#lion",
+      "bytes": 458341
+    },
+    "dire lion (spotted lion)": {
+      "file": "dire-lion-spotted-lion.png",
+      "appearanceSource": "https://legacy.aonprd.com/bestiary/lion.html#lion-dire",
+      "bytes": 459331
+    },
+    "elephant": {
+      "file": "elephant.png",
+      "appearanceSource": "https://legacy.aonprd.com/bestiary/elephant.html#elephant",
+      "bytes": 481195
+    },
+    "mastodon": {
+      "file": "mastodon.png",
+      "appearanceSource": "https://legacy.aonprd.com/bestiary/elephant.html#elephant-mastodon",
+      "bytes": 453599
+    },
+    "tiger": {
+      "file": "tiger.png",
+      "appearanceSource": "https://legacy.aonprd.com/bestiary/tiger.html#tiger",
+      "bytes": 485771
+    },
+    "dire tiger (smilodon)": {
+      "file": "dire-tiger-smilodon.png",
+      "appearanceSource": "https://legacy.aonprd.com/bestiary/tiger.html#tiger-dire",
+      "bytes": 462515
+    }
+  }
+}
