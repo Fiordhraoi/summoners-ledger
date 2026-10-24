@@ -1,0 +1,17 @@
+Summoner’s Ledger token artwork permission
+
+Prepared for Fiordhraoi, 2026. Contact: ogladmin@hiddenflame.net
+
+These token images are AI-generated. To the extent Fiordhraoi holds rights in
+these images, permission is granted, without charge, to download, use, copy,
+modify, and redistribute them, including as virtual tabletop tokens.
+Attribution to Summoner’s Ledger / Fiordhraoi is appreciated but not required.
+
+The images are provided as-is, without warranty. This notice does not assert
+that every AI-generated image is eligible for copyright protection or unique.
+No rights to third-party trademarks, Product Identity, published artwork, or
+other third-party material are granted. These are not official Paizo or
+Roll20 illustrations. Do not imply endorsement by those companies.
+
+The game rules remain under their separate OGL notices. The application code
+is GPL-3.0-only. See LICENSING.md and license.html.
